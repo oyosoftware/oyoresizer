@@ -13,8 +13,8 @@
 </div>
 <ul>
   <li><strong>category</strong> control</li>
-  <li><strong>author</strong> oyosoftware <a href="mailto:software@oyoweb.nl">software@oyoweb.nl</a></li>
   <li><strong>copyright</strong> 2021 oyosoftware </li>
+  <li><strong>contact</strong> <a href="mailto:software@oyoweb.nl">software@oyoweb.nl</a></li>
   <li><strong>license</strong> MIT License</li>
   <li><strong>link</strong> http://www.oyoweb.nl/music/plugins/oyoresizer/testresizer.html</li>
   <li><strong>source</strong> https://github.com/oyosoftware/oyoresizer</li>
@@ -23,16 +23,11 @@
 <p>jQuery control for resizing elements.</p>
 <h3>Features</h3>
 <ul>
-  <li>A marquee for scrolling text.</li>
-  <li>The content can scroll to the left, right, top or bottom.</li>  
-  <li>Scrolling can be turned on/off.</li>
-  <li>Speed can be modified.</li>
-  <li>Duration can be infinity or specific number of times.</li>
-  <li>A delay in seconds can be given between jumps.</li>
-  <li>Wrapping can be turned on/off.</li>
-  <li>Given text can be repeated.</li>
-  <li>Colors can be changed.</li>
-  <li>Size can be changed.</li>
+  <li>A resizer to resize elements on the right side.</li>
+  <li>Other sides may be added in the future.</li>  
+  <li>IFrames can be resized smoothly by an added overlay.</li>
+  <li>Multiple resizers can work together.</li>
+<li>Multiple resizers can work together.</li>
 </ul>
 <h2>Contact</h2>
 <ul>
