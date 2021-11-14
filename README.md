@@ -14,7 +14,6 @@
 <ul>
   <li><strong>category</strong> control</li>
   <li><strong>copyright</strong> 2021 oyosoftware </li>
-  <li><strong>contact</strong> <a href="mailto:software@oyoweb.nl">software@oyoweb.nl</a></li>
   <li><strong>license</strong> MIT License</li>
   <li><strong>link</strong> http://www.oyoweb.nl/music/plugins/oyoresizer/testresizer.html</li>
   <li><strong>source</strong> https://github.com/oyosoftware/oyoresizer</li>
@@ -25,9 +24,10 @@
 <ul>
   <li>A resizer to resize elements on the right side.</li>
   <li>Other sides may be added in the future.</li>  
-  <li>IFrames can be resized smoothly by an added overlay.</li>
+  <li>iFrames can be resized smoothly by an added overlay.</li>
   <li>Multiple resizers can work together.</li>
-<li>Multiple resizers can work together.</li>
+  <li>Minimum and maximum width can be assigned to an element.</li>
+  <li>Resize margin can be changed.</li>
 </ul>
 <h2>Contact</h2>
 <ul>
