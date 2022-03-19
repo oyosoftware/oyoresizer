@@ -1,6 +1,6 @@
 # oyoresizer
-<a href="http://oyoweb.nl/music/plugins/oyoresizer/testresizer.html" target="_blank">
-  <img src="http://oyoweb.nl/music/plugins/oyoresizer/oyoresizer.jpg" alt="oyomarquee">
+<a href="http://oyosoftware.nl/plugins/oyoresizer/testresizer.html" target="_blank">
+  <img src="http://oyosoftware.nl/plugins/oyoresizer/oyoresizer.jpg" alt="oyomarquee">
 </a>
 <p>Resizer Control</p>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;currency_code=EUR&amp;business=code@oyosoftware.nl&amp;item_name=donation%20for%20oyoresizer" rel="nofollow">
@@ -15,7 +15,7 @@
   <li><strong>category</strong> control</li>
   <li><strong>copyright</strong> 2021 oyosoftware </li>
   <li><strong>license</strong> MIT License</li>
-  <li><strong>link</strong> http://www.oyoweb.nl/music/plugins/oyoresizer/testresizer.html</li>
+  <li><strong>link</strong> http://www.oyosoftware.nl/plugins/oyoresizer/testresizer.html</li>
   <li><strong>source</strong> https://github.com/oyosoftware/oyoresizer</li>
 </ul>
 <h2>Description</h2>
@@ -31,6 +31,6 @@
 </ul>
 <h2>Contact</h2>
 <ul>
-<li>oyosoftware <a href="mailto:software@oyoweb.nl">software@oyoweb.nl</a></li>
+<li>oyosoftware <a href="mailto:code@oyosoftware.nl">code@oyosoftware.nl</a></li>
 </ul>
 
